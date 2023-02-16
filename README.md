@@ -1,7 +1,5 @@
 # ASCII hex converter
 
-#
-
 This program can take ASCII text and convert it to hexadecimal / take hexadecimal and convert it to ASCII text. 
 
 Example
